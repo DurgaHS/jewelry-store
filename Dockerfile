@@ -1,4 +1,4 @@
-FROM httpd
+FROM httpd:latest
 
 maintainer durgahshivashankar@gmail.com
 
